@@ -57,12 +57,18 @@ public class MainActivity extends Activity implements OnTouchListener,
 	private RelativeLayout relative;
 	int create = 15;
 
+<<<<<<< HEAD
 	
+=======
+>>>>>>> refs/remotes/origin/master
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		// Config screen| Full, No title, Screen On
+<<<<<<< HEAD
 		// xin chao cac ban
+=======
+>>>>>>> refs/remotes/origin/master
 		super.requestWindowFeature(Window.FEATURE_NO_TITLE);
 		super.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR_PORTRAIT);
 		super.getWindow().setFlags(
