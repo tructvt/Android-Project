@@ -62,6 +62,7 @@ public class MainActivity extends Activity implements OnTouchListener,
 		super.onCreate(savedInstanceState);
 		// Config screen| Full, No title, Screen On
 		super.requestWindowFeature(Window.FEATURE_NO_TITLE);
+		super.requestWindowFeature(Window.FEATURE_NO_TITLE);
 		super.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR_PORTRAIT);
 		super.getWindow().setFlags(
 				WindowManager.LayoutParams.FLAG_FULLSCREEN
