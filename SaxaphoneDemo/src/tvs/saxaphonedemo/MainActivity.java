@@ -58,7 +58,10 @@ public class MainActivity extends Activity implements OnTouchListener,
 	int create = 15;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 >>>>>>> refs/remotes/origin/master
 	@Override
@@ -66,7 +69,10 @@ public class MainActivity extends Activity implements OnTouchListener,
 		super.onCreate(savedInstanceState);
 		// Config screen| Full, No title, Screen On
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// xin chao cac ban
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 >>>>>>> refs/remotes/origin/master
 		super.requestWindowFeature(Window.FEATURE_NO_TITLE);
