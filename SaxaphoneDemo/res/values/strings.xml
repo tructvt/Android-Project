@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SaxaphoneDemo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="La">A</string>
+    <string name="Xi">B</string>
+    <string name="Do">C</string>
+    <string name="Re">D</string>
+    <string name="Mi">E</string>
+    <string name="Fa">F</string>
+    <string name="Sol">G</string>
+    <string name="La2">A2</string>
+    <string name="Xi2">B2</string>
+    <string name="Do2">C2</string>
+    <string name="Re2">D2</string>
+    <string name="Mi2">E2</string>
+    <string name="Fa2">F2</string>
+    <string name="Sol2">G2</string></resources>
