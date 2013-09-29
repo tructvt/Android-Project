@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/109/trunk/vss/searcher
+END
+binary_database_converter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/trunk/vss/searcher/binary_database_converter.cpp
+END
+found_position.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/vss/searcher/found_position.cpp
+END
+unit_selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/106/trunk/vss/searcher/unit_selector.cpp
+END
+binary_database_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/vss/searcher/binary_database_reader.h
+END
+unit_searcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/vss/searcher/unit_searcher.h
+END
+unit_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/106/trunk/vss/searcher/unit_selector.h
+END
+found_position.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/vss/searcher/found_position.h
+END
+binary_database_converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/106/trunk/vss/searcher/binary_database_converter.h
+END
+input_text_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/93/trunk/vss/searcher/input_text_reader.cpp
+END
+xml_database_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/93/trunk/vss/searcher/xml_database_reader.cpp
+END
+input_text_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/vss/searcher/input_text_reader.h
+END
+binary_database_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/93/trunk/vss/searcher/binary_database_reader.cpp
+END
+unit_searcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/93/trunk/vss/searcher/unit_searcher.cpp
+END
+xml_database_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/93/trunk/vss/searcher/xml_database_reader.h
+END

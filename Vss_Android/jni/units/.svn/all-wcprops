@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/93/trunk/vss/units
+END
+recorded_phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/vss/units/recorded_phrase.h
+END
+recorded_syllable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/vss/units/recorded_syllable.cpp
+END
+recorded_sentence.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/vss/units/recorded_sentence.h
+END
+recorded_syllable.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/vss/units/recorded_syllable.h
+END
+searching_phrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32/trunk/vss/units/searching_phrase.cpp
+END
+searching_sentence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29/trunk/vss/units/searching_sentence.cpp
+END
+recorded_phrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32/trunk/vss/units/recorded_phrase.cpp
+END
+searching_phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/vss/units/searching_phrase.h
+END
+recorded_sentence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32/trunk/vss/units/recorded_sentence.cpp
+END
+searching_sentence.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/vss/units/searching_sentence.h
+END

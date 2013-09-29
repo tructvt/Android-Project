@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/128/trunk/vss/test
+END
+test_synthesis_diphone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/128/trunk/vss/test/test_synthesis_diphone.cpp
+END
+test_binary_encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/100/trunk/vss/test/test_binary_encoding.h
+END
+test_tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/vss/test/test_tokenizer.h
+END
+test_wave_file_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/59/trunk/vss/test/test_wave_file_utils.cpp
+END
+test_synthesis_diphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/128/trunk/vss/test/test_synthesis_diphone.h
+END
+test_wave_file_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/vss/test/test_wave_file_utils.h
+END
+test_database_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/93/trunk/vss/test/test_database_reader.cpp
+END
+test_tokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/vss/test/test_tokenizer.cpp
+END
+test_binary_encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/108/trunk/vss/test/test_binary_encoding.cpp
+END
+test_database_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/57/trunk/vss/test/test_database_reader.h
+END

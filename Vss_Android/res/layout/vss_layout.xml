@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rllRelative_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <EditText
+        android:id="@+id/etText_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/text_hint" />
+
+    <Button
+        android:id="@+id/btnSpeak_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/etText_id"
+        android:layout_marginTop="10dp"
+        android:text="@string/btn_speak"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPlayAudio_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/btnSpeak_id"
+        android:text="@string/btn_play_audio"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnClear_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/btnPlayAudio_id"
+        android:text="@string/btn_clear"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:id="@+id/svScrollLog_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/etText_id"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/btnSpeak_id"
+        android:background="@drawable/border" >
+
+        <TextView
+            android:id="@+id/tvLog_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/log" />
+    </ScrollView>
+
+</RelativeLayout>
