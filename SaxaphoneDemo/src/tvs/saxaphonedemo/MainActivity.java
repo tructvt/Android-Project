@@ -62,13 +62,14 @@ public class MainActivity extends Activity implements OnTouchListener,
 		super.onCreate(savedInstanceState);
 		// Config screen| Full, No title, Screen On
 		super.requestWindowFeature(Window.FEATURE_NO_TITLE);
+		// con cho
 		super.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR_PORTRAIT);
 		super.getWindow().setFlags(
 				WindowManager.LayoutParams.FLAG_FULLSCREEN
 						| WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON,
 				WindowManager.LayoutParams.FLAG_FULLSCREEN);
 		super.setContentView(R.layout.main);
-
+		
 		// Asign view
 		relative = (RelativeLayout) findViewById(R.id.id_main_relative);
 		relative.setBackground(this.getResources().getDrawable(R.drawable.sax));
@@ -79,7 +80,7 @@ public class MainActivity extends Activity implements OnTouchListener,
 		// initial
 		this.init();
 	}
-
+ 
 	public void init() {
 		this.initButton((Button) findViewById(R.id.id_do4));
 		this.initButton((Button) findViewById(R.id.id_fa4));
